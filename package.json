@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-ts-service.git"
+    "url": "git+https://github.com/CoCoyh/egg-ts-service.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/CoCoyh/egg-ts-service/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-ts-service#readme",
+  "homepage": "https://github.com/CoCoyh/egg-ts-service#readme",
   "author": "coco",
   "license": "MIT"
 }
