@@ -1,6 +1,6 @@
 {
   "name": "egg-ts-service",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "服务层",
   "main": "index.js",
   "types": "index.d.ts",
@@ -13,8 +13,7 @@
     "egg-plugin"
   ],
   "dependencies": {
-    "egg-ts-router": "^1.0.0",
-    "tern": "^0.24.2"
+    "egg-ts-router": "^1.0.0"
   },
   "devDependencies": {
     "autod": "^3.0.1",
@@ -24,7 +23,8 @@
     "egg-ci": "^1.11.0",
     "egg-mock": "^3.21.0",
     "eslint": "^5.13.0",
-    "eslint-config-egg": "^7.1.0"
+    "eslint-config-egg": "^7.1.0",
+    "tern": "^0.24.2"
   },
   "engines": {
     "node": ">=8.0.0"
@@ -39,10 +39,8 @@
     "autod": "autod"
   },
   "files": [
-    "app.js",
-    "agent.js",
-    "config",
-    "app"
+    "index.js",
+    "index.d.ts"
   ],
   "ci": {
     "version": "8, 10"
